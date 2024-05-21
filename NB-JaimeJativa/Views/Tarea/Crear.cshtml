@@ -1,0 +1,43 @@
+﻿@model NB_JaimeJativa.Repositorio.TareaDTO
+
+@{
+    ViewBag.Title = "Crear Tarea";
+}
+
+<h2>Crear Tarea</h2>
+
+@using (Html.BeginForm("Crear", "Tarea", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Titulo)
+        @Html.EditorFor(model => model.Titulo, new { htmlAttributes = new { @class = "form-control", maxlength = 200 } })
+        @Html.ValidationMessageFor(model => model.Titulo, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Descripcion)
+        @Html.TextAreaFor(model => model.Descripcion, new { @class = "form-control", maxlength = 200 })
+        @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FechaVencimiento)
+        <input type="datetime-local" id="FechaVencimiento" name="FechaVencimiento" class="form-control" value="@ViewBag.FechaVencimientoDefault" />
+        @Html.ValidationMessageFor(model => model.FechaVencimiento, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Completada)
+        @Html.DropDownListFor(model => model.Completada, new List<SelectListItem>
+        {
+            new SelectListItem { Text = "Sí", Value = "true" },
+            new SelectListItem { Text = "No", Value = "false" }
+        }, "Seleccione", new { @class = "form-control" })
+    </div>
+    <div class="mt-2">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+
+}

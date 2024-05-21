@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\nb-jaimejativa\\views\\tarea\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\tarea\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\nb-jaimejativa\\views\\tarea\\listadotareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\tarea\\listadotareas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93233447-B75D-4690-9CB2-80E11C0E933F}|TareasPentdientes.API\\TareasPentdientes.API.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\tareaspentdientes.api\\controllers\\tareadtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93233447-B75D-4690-9CB2-80E11C0E933F}|TareasPentdientes.API\\TareasPentdientes.API.csproj|solutionrelative:tareaspentdientes.api\\controllers\\tareadtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\nb-jaimejativa\\scripts\\tarea.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\scripts\\tarea.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\nb-jaimejativa\\views\\tarea\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\tarea\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\repositorio\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\repositorio\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93233447-B75D-4690-9CB2-80E11C0E933F}|TareasPentdientes.API\\TareasPentdientes.API.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\tareaspentdientes.api\\repositorio\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93233447-B75D-4690-9CB2-80E11C0E933F}|TareasPentdientes.API\\TareasPentdientes.API.csproj|solutionrelative:tareaspentdientes.api\\repositorio\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|c:\\users\\user\\source\\repos\\nb-jaimejativa\\nb-jaimejativa\\views\\tarea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\tarea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\views\\tarea\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\views\\tarea\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\nb-jaimejativa\\repositorio\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA426CDB-1A95-4EE9-9172-2388930FD5C8}|NB-JaimeJativa\\NB-JaimeJativa.csproj|solutionrelative:nb-jaimejativa\\repositorio\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaDTOesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\TareasPentdientes.API\\Controllers\\TareaDTOesController.cs",
+              "RelativeDocumentMoniker": "TareasPentdientes.API\\Controllers\\TareaDTOesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\TareasPentdientes.API\\Controllers\\TareaDTOesController.cs",
+              "RelativeToolTip": "TareasPentdientes.API\\Controllers\\TareaDTOesController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADgv2YAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:14:41.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "NB-JaimeJativa\\Controllers\\TareaController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAArwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:03:43.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tarea.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Scripts\\tarea.js",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Scripts\\tarea.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Scripts\\tarea.js",
+              "RelativeToolTip": "NB-JaimeJativa\\Scripts\\tarea.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-21T03:31:43.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\TareasPentdientes.API\\Repositorio\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "TareasPentdientes.API\\Repositorio\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\TareasPentdientes.API\\Repositorio\\TareaDTO.cs",
+              "RelativeToolTip": "TareasPentdientes.API\\Repositorio\\TareaDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:01:00.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Crear.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Tarea\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Crear.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Tarea\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T01:41:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Content\\Site.css",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Content\\Site.css",
+              "RelativeToolTip": "NB-JaimeJativa\\Content\\Site.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T00:57:07.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Scripts\\jquery.validate.js",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Scripts\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Scripts\\jquery.validate.js",
+              "RelativeToolTip": "NB-JaimeJativa\\Scripts\\jquery.validate.js",
+              "ViewState": "AQIAACsBAAAAAAAAAAApwDYBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-21T00:42:16.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Contact.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Tarea\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Contact.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Tarea\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:39:59.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoTareas.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\ListadoTareas.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Tarea\\ListadoTareas.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\ListadoTareas.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Tarea\\ListadoTareas.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:23:31.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:17:29.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Repositorio\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Repositorio\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Repositorio\\TareaDTO.cs",
+              "RelativeToolTip": "NB-JaimeJativa\\Repositorio\\TareaDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:49:04.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Editar.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Tarea\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Editar.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Tarea\\Editar.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T02:06:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Repositorio\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Repositorio\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Repositorio\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NB-JaimeJativa\\Repositorio\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:49:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Index.cshtml",
+              "RelativeDocumentMoniker": "NB-JaimeJativa\\Views\\Tarea\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\NB-JaimeJativa\\NB-JaimeJativa\\Views\\Tarea\\Index.cshtml",
+              "RelativeToolTip": "NB-JaimeJativa\\Views\\Tarea\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T01:30:55.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
